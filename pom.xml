@@ -42,6 +42,19 @@
 					<artifactId>maven-resources-plugin</artifactId>
 					<version>3.0.2</version>
 				</plugin>
+
+               <!--cc        ****************************************
+				<plugin>
+					<groupId>org.openjfx</groupId>
+					<artifactId>javafx-maven-plugin</artifactId>
+					<version>0.0.3</version>
+					<configuration>
+						<mainClass>org.openjfx.MainApp</mainClass>
+					</configuration>
+				</plugin>
+				*****<-cc        ****************************************-->
+
+
 				<plugin>
 					<artifactId>maven-compiler-plugin</artifactId>
 					<version>3.8.0</version>
