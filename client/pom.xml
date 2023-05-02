@@ -44,6 +44,7 @@
 				<version>0.0.6</version>
 				<configuration>
 					<mainClass>il.cshaifasweng.OCSFMediatorExample.client.Main</mainClass>
+
 				</configuration>
 			</plugin>
 			<plugin>
